@@ -1,4 +1,4 @@
-# An-Online-Traveling-Agency-Hotel-Business-
+# An-Online-Traveling-Agency-Hotel-Business-Analyse
 
 The hotel industry is evolving rapidly, and online travel agencies (OTAs) are at the forefront of this transformation. A recent analysis of Germany’s hotel booking market reveals key trends, challenges, and opportunities for OTAs to stay ahead. Here’s what you need to know:
 
