@@ -22,6 +22,7 @@ The parent company was found in 1999 Germany, with main business functions: insu
 Business model: The OTA functions as a third-party intermediary platform, bridging customers and suppliers (e.g., hotels, insurers, energy providers). 
 
 Its revenue model includes:
+
 •	Commission-based earnings: Fees from suppliers for each transaction completed directly on OTA’s platform.
 •	Referral fees: Compensation when users are redirected to a supplier’s website to finalize purchases.
 
